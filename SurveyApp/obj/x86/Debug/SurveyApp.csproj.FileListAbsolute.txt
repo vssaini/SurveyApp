@@ -1,0 +1,14 @@
+D:\CSharp\SurveyApp\SurveyApp\bin\Debug\SurveyApp.exe.config
+D:\CSharp\SurveyApp\SurveyApp\bin\Debug\SurveyApp.exe
+D:\CSharp\SurveyApp\SurveyApp\bin\Debug\SurveyApp.pdb
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\SurveyApp.Forms.FrmConnectionPrompt.resources
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\SurveyApp.Forms.FrmLoading.resources
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\SurveyApp.Forms.FrmMain.resources
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\SurveyApp.Forms.FrmPassPrompt.resources
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\SurveyApp.Properties.Resources.resources
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\SurveyApp.Forms.FrmAbout.resources
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\SurveyApp.exe
+D:\CSharp\SurveyApp\SurveyApp\obj\x86\Debug\SurveyApp.pdb
